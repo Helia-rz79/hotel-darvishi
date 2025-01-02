@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: nazanin;
+    src: url(".../font/nazanin.ttf") format("opentype");
+}
+
+
+
+@layer components{
+    .row{
+        @apply flex flex-wrap
+    }
+    .center{
+        @apply justify-center items-center
+    }
+    .btn{
+        @apply bg-[#7c6f55] text-white w-32 rounded-lg
+    }
+    .after1{
+        @apply after:content-[''] after:flex after:absolute after:top-0 after:left-0 after:w-full after:h-full after:bg-[#24242449] 
+    }
+}
