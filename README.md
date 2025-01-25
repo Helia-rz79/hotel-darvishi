@@ -1,5 +1,4 @@
 # hotel-darvishi
-**😊If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 ![11](https://github.com/user-attachments/assets/6bb021c5-01a1-4ecf-bd5c-c738679f520f)
 
